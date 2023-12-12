@@ -2,14 +2,14 @@
   "name": "shescreen-frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://leahnp613.github.io/SheScreen/",
+  "homepage": "https://leahnp613.github.io/SheScreen-frontend/",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --outDir build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^18.2.0",
