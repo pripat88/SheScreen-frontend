@@ -2,7 +2,7 @@
   "name": "shescreen-frontend",
   "private": false,
   "version": "0.0.0",
-  "homepage": "https://leahnp613.github.io/SheScreen-frontend/",
+  "homepage": "https://leahnp613.github.io/shescreen-frontend/",
   "type": "module",
   "scripts": {
     "dev": "vite",
