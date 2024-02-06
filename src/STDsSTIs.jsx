@@ -6,7 +6,9 @@ export default function STDsSTIsInfoPage() {
             <h1>Information about STDs/STIs</h1>
 
             <p>
-                Sexually transmitted diseases (STDs), or sexually transmitted infections (STIs), are generally acquired by sexual contact. The organisms that cause sexually transmitted diseases may pass from person to person in blood, semen, or vaginal and other bodily fluids.
+                Sexually transmitted diseases (STDs), or sexually transmitted infections (STIs),
+                are generally acquired by sexual contact. The organisms that cause sexually transmitted
+                diseases may pass from person to person in blood, semen, or vaginal and other bodily fluids.
             </p>
 
             <h2>Symptoms</h2>
